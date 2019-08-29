@@ -1,0 +1,47 @@
+export class Search {
+    aheadtowncounty: string;
+    celat: string;
+    celocaddr: string;
+    celocaltname: string;
+    celoccatname: string;
+    celoccounty: string;
+    celoccountyid: string;
+    celocname: string;
+    celoctown: string;
+    celoctownid: string;
+    celon: string;
+    ceremark: string;
+    cetype: string;
+    cezoom: string;
+    chdeathtime: string;
+    chlat: string;
+    chlocaddr: string;
+    chlocaltname: string;
+    chloccatname: string;
+    chloccounty: string;
+    chloccountyid: string;
+    chlocname: string;
+    chloctown: string;
+    chloctownid: string;
+    chlon: string;
+    chremark: string;
+    chtype: string;
+    chzoom: string;
+    county: string;
+    deathdate: string;
+    description: string;
+    finaldatelater: string;
+    firstname: string;
+    id: string;
+    image: string;
+    index: string;
+    lastname: string;
+    neename: string;
+    published: string;
+    resta: string;
+    restb: string;
+    restc: string;
+    town: string;
+    towncounty: string;
+  }
+
